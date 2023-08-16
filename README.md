@@ -1,3 +1,3 @@
 # Bank_ATM_System
 
-Basic ATM Management System that is built to practice programming skills in Java. In this system, customer can check his/her/their balance, deposit particular amounts of money, withdraw if the balance allows, and check previous transactions. Easy to use and operate. 
+Basic ATM System that is built to practice programming skills in Java. In this system, customer can check his/her/their balance, deposit particular amounts of money, withdraw if the balance allows, and check previous transactions. Easy to use and operate. 
